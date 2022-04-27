@@ -1,0 +1,19 @@
+{
+  "name": "mi_repostorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoraJuan/mi-repostorio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoraJuan/mi-repostorio/issues"
+  },
+  "homepage": "https://github.com/MoraJuan/mi-repostorio#readme"
+}
